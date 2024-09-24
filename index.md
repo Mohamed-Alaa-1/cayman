@@ -2,122 +2,83 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Mohamed Alaa Abdelhamed - CV
 
-[Link to another page](./another-page.html).
+6th of October city - 01200709954  
+[mohamed.alaa2985@gmail.com](mailto:mohamed.alaa2985@gmail.com)  
+[LinkedIn Profile](https://www.linkedin.com/in/mohamed-alaa-806a5a266)
 
-There should be whitespace between paragraphs.
+## Summary
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Highly motivated and skilled computer engineering student with a proven track record in academic excellence, research, and teaching. Proficient in Python, OpenCV, network design, administration, and security.  
+Possesses certifications in Android Development, Networking Essentials, Linux Essentials, and Cisco Certified Network Associate. Eager to leverage technical expertise and research experience to contribute significantly to the computer engineering field.
 
-# Header 1
+## Experience
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Engineering School Representative** (Apr 2024 – Present)
+  
+- **Intern - Alstom Mobility** (Aug 2024 - Sep 2024)  
+  -Worked on Train control systems URBALIS 200 & URBALIS 400 and gained hands-on experience in a light repair workshop.
 
-## Header 2
+- **Intern - Ministry of Communications and Information Technology** (July 2024 - Aug 2024)  
+  -Dived into Networking, wireless & VOIP, Datacenter, and cyber security.
+  
+- **C++ Junior Teaching Assistant** - Nile University (Feb 2024 – May 2024)  
+  -Assisted undergraduate students in solving problems using C++.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+- **Python Junior Teaching Assistant** - Nile University (Feb 2024 – May 2024)  
+  -Assisted undergraduate students in solving problems using Python.
 
-### Header 3
+- **Engineering Drawing Junior Teaching Assistant** - Nile University (Nov 2022 – Dec 2023)  
+  -Developed and delivered engaging instruction for engineering drawing principles to undergraduate students.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+- **Electric Circuits Junior Teaching Assistant** - Nile University (Feb 2024 – May 2024)  
+  -Assisted undergraduate students in building their electric circuits.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Differential Equation Research Assistant** - Nile University (Mar 2023 - Jun 2023)  
+  -Supported sophomore students in research projects related to differential equations, providing guidance on mathematical methods, numerical analysis, and data interpretation.
 
-#### Header 4
+- **MATLAB Instructor** - Nile University (Mar 2023 - Jun 2023)  
+  -Designed and delivered MATLAB workshops for undergraduate students, focusing on basic functions, syntax, and programming techniques.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Licenses & Certifications
 
-##### Header 5
+- Android Development - Udacity
+- Networking Essentials - Cisco Networking Academy NDG
+- LINUX Essentials - Cisco Networking Academy
+- Cisco Certified Network Associate (Enterprise Networking, Security, and Automation) - Cisco Networking Academy
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Education
 
-###### Header 6
+**Bachelor of Engineering (BE) in Computer Engineering** - Nile University (Sep 2021 - Jun 2026)  
+GPA: 3.7 | Dean's Honors List - Nile University (Nov 2023)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Skills
 
-### There's a horizontal rule below this.
+- Programming Languages: Python, MATLAB, C++, Java
+- Hardware & Robotics: Arduino
+- Networking: Network design, administration, security
+- Image Processing: OpenCV, facial recognition
+- Project Management, Teamwork, Communication, Problem-Solving
 
-* * *
+## Projects
 
-### Here is an unordered list:
+- **Implementing an Electric Car for EVER Competition** (Feb 2024 - Aug 2024)
+- **Self-stabilizing Spoon for Tremor Hand with PID Controller** (March 2024 - May 2024)  
+  Developed a Simulink model to analyze system performance, and implemented the system using Arduino.
+  
+- **Simulating Signal Modulation Using MATLAB** (March 2024 - May 2024)
+- **Designing and Implementing a Differential Amplifier** (Dec 2023 - Jan 2024)  
+  Designed a differential amplifier using LTspice and completed a hardware implementation.
+  
+- **Voice Spectrum Analyzer** (Nov 2023 - Jan 2024)  
+  Developed an interactive MATLAB code to analyze and visualize voice signals in time and frequency domains.
+  
+- **Taking Attendance Using Face Recognition** (Nov 2023 - Dec 2023)  
+  Built a Python-based application with OpenCV for automated classroom attendance management via facial recognition.
+  
+- **Auto Parking Car** (Apr 2022 - May 2022)  
+  Designed and built an autonomous car using Arduino and ultrasonic sensors for parking automation.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+---
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
