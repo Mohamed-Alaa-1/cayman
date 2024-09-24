@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Mohamed Alaa Abdelhamed - CV
+## Contact info
 
 6th of October city - 01200709954  
 [mohamed.alaa2985@gmail.com](mailto:mohamed.alaa2985@gmail.com)  
